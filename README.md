@@ -1,3 +1,10 @@
+Repackaged!
+===========
+
+This branch contains version 1.0.0 of okio, repackaged to `com.squareup.okio` in order
+to make it usable on Android L preview build LPV79.
+
+
 Okio
 ====
 
